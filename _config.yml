@@ -10,7 +10,6 @@ title_separator          : "-"
 name                     : &name "Amandi Hiyare"
 description              : &description "PhD-qualified Researcher and Data Analyst"
 url                      : "https://amandih22-rgb.github.io"
-baseurl                  : ""
 repository               : "amandih22-rgb/amandih22.github.io"
 
 
@@ -30,58 +29,8 @@ author:
   uri              :
   email            :
 
-
-  # Academic Profiles
-  academia         :
-  arxiv            :
-  googlescholar    :
-  inspire-hep      :
-  impactstory      :
-  orcid            :
-  semantic         :
-  ssrn             :
-  pubmed           :
-  researchgate     :
-  scopus           :
-  zotero            :
-
-
   # Software / Data
-  bitbucket        :
-  codepen          :
-  dribbble         :
   github           : "amandih22-rgb"
-  kaggle           :
-  stackoverflow    :
-
-
-  # Social Media
-  artstation       :
-  bluesky          :
-  facebook         :
-  flickr           :
-  foursquare       :
-  goodreads        :
-  google_plus      :
-  keybase          :
-  instagram        :
-  lastfm           :
-  linkedin         :
-  mastodon         :
-  medium           :
-  pinterest        :
-  soundcloud       :
-  steam            :
-  telegram         :
-  tumblr           :
-  twitter          :
-  vine             :
-  weibo            :
-  wikipedia        :
-  xing             :
-  youtube          :
-  zhihu            :
-
 
 # ============================================================
 # Publication Categories
@@ -98,7 +47,6 @@ publication_category:
   conferences:
     title: 'Conference Papers'
 
-
 # ============================================================
 # Site Settings
 # ============================================================
@@ -110,19 +58,6 @@ future                   : true
 read_more                : "disabled"
 talkmap_link             : false
 
-comments:
-  provider               :
-
-  disqus:
-    shortname            :
-
-  discourse:
-    server               :
-
-  facebook:
-    appid                :
-    num_posts            :
-    colorscheme          :
 
 staticman:
   allowedFields          : ['name', 'email', 'url', 'message']
