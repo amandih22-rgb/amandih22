@@ -1,36 +1,52 @@
 ---
-layout: archive
-title: "Publications"
-permalink: /publications/
+layout: single
+title: "Certifications"
+permalink: /certifications/
 author_profile: true
 ---
 
-{% if site.author.googlescholar %}
-  <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
-{% endif %}
+## Technical Training & Certifications
 
-{% include base_path %}
+### Associate Data Scientist in R
+**DataCamp**
 
-<!-- New style rendering if publication categories are defined -->
-{% if site.publication_category %}
-  {% for category in site.publication_category  %}
-    {% assign title_shown = false %}
-    {% for post in site.publications reversed %}
-      {% if post.category != category[0] %}
-        {% continue %}
-      {% endif %}
-      {% unless title_shown %}
-        <h2>{{ category[1].title }}</h2><hr />
-        {% assign title_shown = true %}
-      {% endunless %}
-      {% include archive-single.html %}
-    {% endfor %}
-  {% endfor %}
-{% else %}
-  {% for post in site.publications reversed %}
-    {% include archive-single.html %}
-  {% endfor %}
-{% endif %}
+Training in R programming, data manipulation, statistical analysis, data visualisation, and data science workflows.
 
+---
+
+### Associate Data Analyst in SQL
+**DataCamp**
+
+Training in SQL for data analysis, including querying, data manipulation, and analytical problem solving.
+
+---
+
+### Power BI Fundamentals
+**DataCamp**
+
+Training in Power BI, including data analysis, DAX, data visualisation, and dashboard development.
+
+---
+
+### Data Literacy Professional
+**DataCamp**
+
+Training focused on developing data literacy and the ability to understand, interpret, and communicate with data.
+
+---
+
+### COMS9001 – Communicating Research
+**Flinders University**
+
+Training in research communication, presentation, and communicating complex information to diverse audiences.
+
+---
+
+## Professional Development
+
+### Python Data Fundamentals
+**DataCamp — In Progress**
+
+Developing practical skills in Python for data analysis and data science.
 
 
