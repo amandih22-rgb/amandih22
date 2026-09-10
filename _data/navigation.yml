@@ -5,8 +5,10 @@ main:
   - title: "Skills"
     url: /skills/
 
+  - title: "Certifications"
+    url: /certifications/
+
   - title: "Talks"
     url: /talks/
 
-  - title: "Certifications"
-    url: /certifications/
+
