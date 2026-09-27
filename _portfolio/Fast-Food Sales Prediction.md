@@ -16,4 +16,4 @@ The analysis also included **feature importance and product-level error analysis
 
 **Tools:** R · RStudio · tidyverse · ggplot2 · Random Forest · XGBoost · Machine Learning · Feature Engineering · Time-Based Validation · Data Visualisation
 
-[View Project on GitHub](https://github.com/amandih22-rgb/datacamp-fast-food-sales-prediction.git)
+[View Project on GitHub](https://github.com/amandih22-rgb/datacamp-fast-food-sales-prediction)
